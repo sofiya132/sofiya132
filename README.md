@@ -70,10 +70,9 @@
 
 # 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sofiya132&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sofiya132&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiya132&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sofiya132&layout=compact&theme=tokyonight&hide_border=true"/>
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=sofiya132&theme=tokyonight&hide_border=true"/>
