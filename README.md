@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:2563EB,100:7C3AED&text=Sofiya%20S&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20ML&descAlignY=60"/>
-</p>
+<h1 align="center">
+  Hi 👋, I'm Sofiya Sindgi
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Software+That+Matters.;Learning+Every+Day.;Always+Open+to+New+Challenges."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Progress;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+MERN+%7C+Python"/>
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@
 
 # 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sofiya132&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sofiya132&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiya132&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -102,6 +102,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:2563EB,100:7C3AED"/>
-</p>
