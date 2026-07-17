@@ -1,135 +1,107 @@
-<h1 align="center">Hi 👋, I'm Sofiya S</h1>
-<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | AI & ML Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:2563EB,100:7C3AED&text=Sofiya%20S&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20ML&descAlignY=60"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sofiya132&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Software+That+Matters.;Learning+Every+Day.;Always+Open+to+New+Challenges."/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sofiya132&label=Profile+Views&style=for-the-badge&color=2563EB"/>
 </p>
 
 ---
 
+<div align="center">
+
 # 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 💻 Currently mastering **Data Structures & Algorithms in Java**
-- 🌐 Learning **Full Stack Development (MERN Stack)**
-- 🤖 Exploring **Machine Learning & Artificial Intelligence**
-- 🚀 Interested in **Backend Development, AI, and Scalable Systems**
-- 📚 Always learning and building projects
+</div>
+
+> 🎓 **B.Tech Computer Science Engineering Student**
+>
+> 💻 Passionate about **Software Engineering**, **Backend Development**, and **Artificial Intelligence**.
+>
+> 🚀 Currently strengthening my **Data Structures & Algorithms** skills while building **Full Stack** applications and exploring **Machine Learning**.
+>
+> ✨ I enjoy solving problems, learning new technologies, and turning ideas into real-world projects.
 
 ---
+
+<div align="center">
 
 # 🛠 Tech Stack
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
+
+<br>
 
 ### 🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express"/>
+
+<br>
 
 ### 🗄 Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+<br>
 
 ### 🤖 AI / ML
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
-- NumPy
-- Pandas
-- Scikit-Learn
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 ### ⚙ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+
+</div>
 
 ---
 
-# 📂 Featured Projects
+<div align="center">
 
-### ☕ Cozy Cup Cafe
-Full Stack Cafe Management Web Application
+# 📊 GitHub Analytics
 
-**Tech Stack:** HTML, CSS, JavaScript, Flask, MongoDB
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sofiya132&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiya132&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🔐 AI Risk Factor Authentication
+<br><br>
 
-Machine Learning-based authentication system using Random Forest.
+<img src="https://streak-stats.demolab.com?user=sofiya132&theme=tokyonight&hide_border=true"/>
 
----
-
-### ⚡ Home Energy Audit System
-
-A web application that estimates energy consumption, electricity costs, and provides energy-saving recommendations.
+</div>
 
 ---
 
-# 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiya132&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiya132&layout=compact&theme=tokyonight"/>
-</p>
+# 🌐 Let's Connect
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sofiya132&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sofiya132&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sofiya132&theme=tokyo-night"/>
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- System Design Fundamentals
-- MERN Stack
-- Machine Learning
-- Spring Boot (Future Goal)
-
----
-
-# 📫 Connect with Me
-
-<p align="left">
 <a href="https://www.linkedin.com/in/sofiyasindgi/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/Sofiya_Sindgi">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="48"/>
+<a href="https://leetcode.com/Sofiya_Sindgi/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:sofiyasindgi@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:2563EB,100:7C3AED"/>
+</p>
