@@ -70,7 +70,7 @@
 
 # 📊 GitHub Analytics
 
-<img src="https://streak-stats.demolab.com?user=sofiya132&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sofiya132&theme=tokyonight&hide_border=true&_=<timestamp>"/>
 
 </div>
 
